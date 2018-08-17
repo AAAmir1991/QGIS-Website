@@ -1,6 +1,6 @@
 .. _translate-qgis:
 
-Translation
+ترجمه
 ===========
 
 QGIS is natively developed in English, either for the user interface (GUI) or
@@ -18,7 +18,7 @@ platform.
 
 .. _mailinglist-translation:
 
-Translators Mailing list
+لیست ایمیلی مترجمان
 ------------------------
 
 If you plan to contribute to an existing language or you want to translate
@@ -38,7 +38,7 @@ The other available mailing lists can be found at :ref:`QGIS-mailinglists`.
 
 .. _translate-gui:
 
-GUI Translation
+(ترجمه رابط کاربری گرافیکی (جی یو آی
 ---------------
 
 The QGIS interface is natively programmed in English. However, at this moment
@@ -65,7 +65,7 @@ your help will be appreciated!
 
 .. _becoming-translator:
 
-Becoming a translator
+!یک مترجم شوید
 ---------------------
 
 The QGIS project is always looking for people who are willing to invest some
@@ -86,7 +86,7 @@ Please contact the :ref:`Translation team leader <gui-translation>` or
 :ref:`Community Assistant <community-resources>` to see your name entered in
 the About Box of QGIS Desktop.
 
-Transifex
+تِرَنسیفِکس
 .........
 
 The web-based translating platform Transifex is used for all QGIS
@@ -94,7 +94,7 @@ translations; the desktop application itself (or GUI), the documentation and
 the web site. So the first thing you need is an account to login and get
 started.
 
-Join a Project
+پیوستن به یک پروژه
 ..............
 
 - Go to http://www.transifex.com and create a new account
